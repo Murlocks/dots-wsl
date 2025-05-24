@@ -4,14 +4,14 @@ SETUVAR EDITOR:nvim
 SETUVAR MANPAGER:nvim\x20\x2bMan\x21
 SETUVAR MANWIDTH:999
 SETUVAR --export SHELL:/usr/bin/fish
-SETUVAR --export SSH_AGENT_PID:2344
-SETUVAR --export SSH_AUTH_SOCK:/tmp/ssh\x2dXXXXXXjsMitT/agent\x2e2343
-SETUVAR SSH_KEYS_TO_AUTOLOAD:/home/murlocks/\x2essh/id_ed25519
+SETUVAR --export SSH_AGENT_PID:457
+SETUVAR --export SSH_AUTH_SOCK:/tmp/ssh\x2dXXXXXXwI37Yx/agent\x2e454
+SETUVAR SSH_KEYS_TO_AUTOLOAD:/home/murlocks/\x2essh/id_ed25519\x1e/home/murlocks/\x2essh/mpxe
 SETUVAR __fish_initialized:3400
 SETUVAR _fisher_edc_2F_bass_files:\x7e/\x2econfig/fish/functions/__bass\x2epy\x1e\x7e/\x2econfig/fish/functions/bass\x2efish
-SETUVAR _fisher_fabioantunes_2F_fish_2D_nvm_files:\x7e/\x2econfig/fish/functions/__nvm_run\x2efish\x1e\x7e/\x2econfig/fish/functions/node\x2efish\x1e\x7e/\x2econfig/fish/functions/npm\x2efish\x1e\x7e/\x2econfig/fish/functions/npx\x2efish\x1e\x7e/\x2econfig/fish/functions/nvm\x2efish\x1e\x7e/\x2econfig/fish/functions/nvm_alias_command\x2efish\x1e\x7e/\x2econfig/fish/functions/nvm_alias_function\x2efish\x1e\x7e/\x2econfig/fish/functions/yarn\x2efish\x1e\x7e/\x2econfig/fish/completions/nvm\x2efish
 SETUVAR _fisher_jorgebucaran_2F_fisher_files:\x7e/\x2econfig/fish/functions/fisher\x2efish\x1e\x7e/\x2econfig/fish/completions/fisher\x2efish
-SETUVAR _fisher_plugins:jorgebucaran/fisher\x1efabioantunes/fish\x2dnvm\x1eedc/bass\x1euajqq/fish\x2dkanagawa
+SETUVAR _fisher_jorgebucaran_2F_nvm_2E_fish_files:\x7e/\x2econfig/fish/functions/_nvm_index_update\x2efish\x1e\x7e/\x2econfig/fish/functions/_nvm_list\x2efish\x1e\x7e/\x2econfig/fish/functions/_nvm_version_activate\x2efish\x1e\x7e/\x2econfig/fish/functions/_nvm_version_deactivate\x2efish\x1e\x7e/\x2econfig/fish/functions/nvm\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/nvm\x2efish\x1e\x7e/\x2econfig/fish/completions/nvm\x2efish
+SETUVAR _fisher_plugins:jorgebucaran/fisher\x1eedc/bass\x1euajqq/fish\x2dkanagawa\x1ejorgebucaran/nvm\x2efish
 SETUVAR _fisher_uajqq_2F_fish_2D_kanagawa_files:\x7e/\x2econfig/fish/themes/kanagawa\x2etheme
 SETUVAR _fisher_upgraded_to_4_4:\x1d
 SETUVAR fish_color_autosuggestion:727169
@@ -53,3 +53,4 @@ SETUVAR fish_pager_color_selected_completion:\x1d
 SETUVAR fish_pager_color_selected_description:\x1d
 SETUVAR fish_pager_color_selected_prefix:\x1d
 SETUVAR fish_user_paths:/home/murlocks/\x2elocal/bin\x1e/usr/local/go/bin\x1e/home/murlocks/\x2eemacs\x2ed/bin
+SETUVAR nvm_default_version:lts

@@ -14,3 +14,4 @@ source ~/.local/share/lscolors.csh
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 zoxide init fish | source
 fzf --fish | source
+eval "$(mise activate fish)"
